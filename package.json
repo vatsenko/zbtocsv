@@ -23,5 +23,12 @@
     "bugs": {
         "url": "https://github.com/vatsenko/zbtocsv/issues"
     },
-    "homepage": "https://github.com/vatsenko/zbtocsv#readme"
+    "homepage": "https://github.com/vatsenko/zbtocsv#readme",
+    "dependencies": {
+        "async": "^2.6.1",
+        "chalk": "^2.4.1",
+        "csvtojson": "^2.0.8",
+        "jsonexport": "^2.3.0",
+        "lodash": "^4.17.11"
+    }
 }
