@@ -1,6 +1,6 @@
 {
     "name": "zbtocsv",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Extract .csv with recordID and crosslink from zoho backup",
     "main": "index.js",
     "scripts": {
