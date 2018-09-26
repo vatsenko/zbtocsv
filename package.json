@@ -1,0 +1,27 @@
+{
+    "name": "zbtocsv",
+    "version": "1.0.0",
+    "description": "Extract .csv with recordID and crosslink from zoho backup",
+    "main": "index.js",
+    "scripts": {
+        "test": "test"
+    },
+    "bin": {
+        "zbtocsv": "./cli.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/vatsenko/zbtocsv.git"
+    },
+    "keywords": [
+        "zoho",
+        "backup",
+        "csv"
+    ],
+    "author": "Igor Vatsenko",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/vatsenko/zbtocsv/issues"
+    },
+    "homepage": "https://github.com/vatsenko/zbtocsv#readme"
+}
